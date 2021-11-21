@@ -32,6 +32,7 @@ if inp_i < 10:
     print('Es')
 elif inp_i == 22:            # si se cumple el primer elif se saltea los demás, aunque haya varios
     print('Le pegaste')
+    print("sos un groso")
 elif inp_i != 21:
     print('Sos boludo')
 else:
